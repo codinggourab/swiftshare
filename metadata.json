@@ -1,0 +1,6 @@
+{
+  "name": "SwiftShare",
+  "description": "Modern file-sharing web application with short-codes and 24-hour auto-expiration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
